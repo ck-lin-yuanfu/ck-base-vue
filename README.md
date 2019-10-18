@@ -1,8 +1,9 @@
-# ck-base-vue
-vue plugins dev
+# 
 
+```bash
+> npm install -g npm-check-updates
+```
 
-# start
 
 ```bash
 >git clone https://github.com/ck-lin-yuanfu/ck-base-vue.git
